@@ -16,4 +16,4 @@ pip install tyre
 - Copy the parts you need
 - Copy code snippets required by them.
 - Replace some parts according to given instructions.
-- include commented link to licence(https://github.com/Ksengine/Tyre/license)
+- include commented link to licence(https://github.com/Ksengine/Tyre/blob/main/LICENSE)
